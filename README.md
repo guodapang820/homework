@@ -92,3 +92,21 @@ ex09：
 
 web触摸距离检测仪盘代码
 
+
+
+finaltest1：
+
+文本框输入调节LED亮度代码
+
+
+
+finaltest2：
+
+三通道LED亮度调节代码
+
+
+
+finaltest3：代码与结果视频见ex08
+
+
+
